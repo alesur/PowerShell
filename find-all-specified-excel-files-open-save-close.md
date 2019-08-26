@@ -1,4 +1,4 @@
-# Find all Excell files by Filename - Open -> Save -> Close
+# Find all Excel files by Filename - Open -> Save -> Close
 
 `
 \\HOST-NAME\FOLDER\*\2019\
