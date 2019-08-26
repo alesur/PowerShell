@@ -19,4 +19,5 @@ $ftp.Method = "Rename"
 $ftp.RenameTo = "/location/image.jpg"
 $ftp.UseBinary = $true
 $response = [System.Net.FtpWebResponse] $ftp.GetResponse()
+}
 ```
